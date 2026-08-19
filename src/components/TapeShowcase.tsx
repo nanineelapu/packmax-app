@@ -212,7 +212,7 @@ export default function TapeShowcase() {
                 </div>
 
                 <a
-                  href={`https://wa.me/919893973939?text=${encodeURIComponent(WA_MESSAGES[prod.slug] || `Hi Packmax! I'm interested in ${prod.name} and would like to know more details, pricing, and minimum order quantity.`)}`}
+                  href={`https://wa.me/919893115645?text=${encodeURIComponent(WA_MESSAGES[prod.slug] || `Hi Packmax! I'm interested in ${prod.name} and would like to know more details, pricing, and minimum order quantity.`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-3 h-10 rounded-xl bg-[#25D366] hover:bg-[#1ebe5a] text-white flex items-center justify-center gap-2 text-[9px] font-black uppercase tracking-widest transition-colors"

@@ -10,7 +10,7 @@ import ProductGallery from "@/components/ProductGallery";
 import InquiryButton from "@/components/InquiryButton";
 
 // WhatsApp number (with country code, no + sign)
-const WA_NUMBER = "919893973939";
+const WA_NUMBER = "919893115645";
 
 // Pre-filled WhatsApp messages per product slug
 const WA_MESSAGES: Record<string, string> = {
